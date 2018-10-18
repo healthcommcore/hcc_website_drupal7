@@ -1,0 +1,10 @@
+#top, nav, footer, #sidebar, 
+#inside_header, .action_container,
+.hccfooter-margin{display:none;}
+.frame{border:none;}
+body, h1, h2, h3, h4, strong{font-family: Helvetica, Arial, sans-serif;}
+strong{font-weight:bold;}
+#main-content{margin-right:0;}
+#main-content.span8{width:85%;}
+ul li{list-style-image:none;}
+a:after{display:none;}

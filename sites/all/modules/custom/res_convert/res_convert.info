@@ -1,0 +1,5 @@
+name = Resolution Converter
+description = Allows users to upload images, choose a resolution settings, then download the converted image file
+core = 7.x
+
+files[] = res_convert.module
